@@ -1,5 +1,5 @@
 pandas
-matplotlib.pyplot
+matplotlib
 numpy
 mpld3
 streamlit
