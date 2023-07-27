@@ -1,0 +1,894 @@
+{
+  "Albumin": {
+    "ylim": 300,
+	"rangesource": "University of Rochester",
+    "ranges": {
+      "green": [
+        0,
+		30
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Alkaline Phosphatase (U/L)": {
+    "ylim": 400,
+	"rangesource": "Mount Sinai",
+    "ranges": {
+      "green": [
+        44,
+        147
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "ALT [Alanine Transaminase] (U/L)": {
+    "ylim": 100,
+	"rangesource": "Cleveland Clinic",
+    "ranges": {
+      "green": [
+        7,
+		56
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "AST [Aspartate Aminotransferase] (U/L)": {
+    "ylim": 100,
+	"rangesource": "UCSF",
+    "ranges": {
+      "green": [
+        8,
+		33
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Total Bilirubin (mg/dL)": {
+    "ylim": 3,
+	"rangesource": "Mount Sinai",
+    "ranges": {
+      "green": [
+        0.1,
+		1.2
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Blood Albumin": {
+    "ylim": 8,
+	"rangesource": "University of Rochester",
+    "ranges": {
+      "green": [
+        3.4,
+		5.4
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Blood Creatinine (mg/dL)": {
+    "ylim": 3,
+	"rangesource": "Mount Sinai Male",
+    "ranges": {
+      "green": [
+        0.7,
+		1.3
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Blood Pressure - BPM (beats/min)": {
+    "ylim": 140,
+	"rangesource": "none",
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Blood Pressure - Systolic": {
+    "ylim": 250,
+	"rangesource": "American Heart Association",
+    "ranges": {
+      "green": [
+        0,
+		120
+      ],
+      "yellow": [
+        120,
+		130
+      ],
+      "orange": [
+        130,
+		140
+      ],
+      "red": [
+        140,
+		250
+      ]
+    }
+  },
+  "Blood Pressure - Diastolic": {
+    "ylim": 150,
+	"rangesource": "American Heart Association",
+    "ranges": {
+      "green": [
+        0,
+        80
+      ],
+      "yellow": [
+        80,
+        90
+      ],
+      "orange": [
+        90,
+        120
+      ],
+      "red": [
+        120,
+        150
+      ]
+    }
+  },
+  "Blood Pressure - Max Inflation": {
+    "ylim": 300,
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Total Calcium (mg/dL)": {
+    "ylim": 15,
+	"rangesource": "Cleveland Clinic",
+    "ranges": {
+      "green": [
+        8.5,
+		10.2
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "VO2 Max": {
+    "ylim": 150,
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Cholesterol - HDL (mg/dL)": {
+    "ylim": 150,
+	"rangesource": "Cleveland Clinic Male",
+    "ranges": {
+      "green": [
+        45,
+		70
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Cholesterol - LDL (mg/dL)": {
+    "ylim": 300,
+	"rangesource": "Johns Hopkins",
+    "ranges": {
+      "green": [
+        0,
+		100
+      ],
+      "yellow": [
+        100,
+		130
+      ],
+      "orange": [
+        130,
+		160
+      ],
+      "red": [
+        160,
+		300
+      ]
+    }
+  },
+  "Cholesterol - Total (mg/dL)": {
+    "ylim": 400,
+	"rangesource": "Johns Hopkins",
+    "ranges": {
+      "green": [
+        0,
+		200
+      ],
+      "yellow": [
+        200,
+		240
+      ],
+      "orange": [
+        240,
+		400
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "C Reactive Protein (mg/dL)": {
+    "ylim": 5,
+    "ranges": {
+      "green": [
+        NaN,
+		NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "High Sensitivity C Reactive Protein": {
+    "ylim": 50,
+	"rangesource": "Cleveland Heart Lab",
+    "ranges": {
+      "green": [
+        0,
+		1
+      ],
+      "yellow": [
+        1,
+		3
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        3,
+		50
+      ]
+    }
+  },
+  "Cystatin C (mg/L)": {
+    "ylim": 5,
+	"rangesource": "SelfDecode",
+    "ranges": {
+      "green": [
+        0.62,
+		1.15
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Fasting Glucose": {
+    "ylim": 250,
+	"rangesource": "Mount Sinai",
+    "ranges": {
+      "green": [
+        70,
+		100
+      ],
+      "yellow": [
+        100,
+		125
+      ],
+      "orange": [
+        NaN,
+		NaN
+      ],
+      "red": [
+        126,
+		250
+      ]
+    }
+  },
+  "Fasting Insulin": {
+    "ylim": 100,
+	"rangesource": "none",
+    "ranges": {
+      "green": [
+        NaN,
+		NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Glycohemoglobin A1c (%)": {
+    "ylim": 15,
+	"rangesource": "Cleveland Clinic",
+    "ranges": {
+      "green": [
+        0,
+		5.7
+      ],
+      "yellow": [
+        5.7,
+		6.4
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        6.4,
+		15
+      ]
+    }
+  },
+  "Hematocrit (%)": {
+    "ylim": 60,
+	"rangesource": "Cleveland Clinic Male",
+    "ranges": {
+      "green": [
+        41,
+		50
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Homocysteine (umol/L)": {
+    "ylim": 50,
+	"rangesource": "University of Rochester",
+    "ranges": {
+      "green": [
+        0,
+		15
+      ],
+      "yellow": [
+        15,
+		30
+      ],
+      "orange": [
+        30,
+		50
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Triglycerides (mg/dL)": {
+    "ylim": 500,
+	"rangesource": "Mayo Clinic",
+    "ranges": {
+      "green": [
+        0,
+		150
+      ],
+      "yellow": [
+        150,
+		199
+      ],
+      "orange": [
+        200,
+		499
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Mean Platelet Count (1000 cells/uL)": {
+    "ylim": 15,
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Blood Urea Nitrogen (mg/dL)": {
+    "ylim": 50,
+	"rangesource": "Mayo Clinic",
+    "ranges": {
+      "green": [
+        6,
+		24
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Follicle Stimulating Hormone (IU/L)": {
+    "ylim": 200,
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Red Cell Distribution Width (%)": {
+    "ylim": 30,
+	"rangesource": "Cleveland Clinic",
+    "ranges": {
+      "green": [
+        12,
+		15
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Selenium": {
+    "ylim": 200,
+    "ranges": {
+      "green": [
+        NaN,
+		NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Sex Hormones - Average Daily Live Gain": {
+    "ylim": 30,
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Sex Hormones - Estradiol [Women] (pg/mL)": {
+    "ylim": 400,
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Sex Hormones - Sex Hormone Binding Globulin": {
+    "ylim": 300,
+	"rangesource": "Healthline Male",
+    "ranges": {
+      "green": [
+        10,
+		57
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Sex Hormones - Testosterone [Men] (ng/mL)": {
+    "ylim": 1400,
+	"rangesource": "Mount Sinai",
+    "ranges": {
+      "green": [
+        300,
+		1000
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Iron (ug/dL)": {
+    "ylim": 300,
+	"rangesource": "Mount Sinai",
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Uric acid (mg/dL)": {
+    "ylim": 15,
+	"rangesource": "UCSF",
+    "ranges": {
+      "green": [
+        3.5,
+		7.2
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Fibrinogen (mg/dL)": {
+    "ylim": 800,
+	"rangesource": "UCSF",
+    "ranges": {
+      "green": [
+        200,
+		400
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Apolipoprotein B (mg/dL)": {
+    "ylim": 300,
+	"rangesource": "Cleveland Clinic Male",
+    "ranges": {
+      "green": [
+        66,
+		133
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Klotho": {
+    "ylim": 2000,
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Ferritin (ug/L)": {
+    "ylim": 300,
+	"rangesource": "Mayo Clinic Male",
+    "ranges": {
+      "green": [
+        24,
+		336
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  },
+  "Grip Strength (Kg)": {
+    "ylim": 100,
+    "ranges": {
+      "green": [
+        NaN,
+        NaN
+      ],
+      "yellow": [
+        NaN,
+        NaN
+      ],
+      "orange": [
+        NaN,
+        NaN
+      ],
+      "red": [
+        NaN,
+        NaN
+      ]
+    }
+  }
+}
