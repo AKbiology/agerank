@@ -1,0 +1,7 @@
+pandas
+matplotlib.pyplot
+numpy
+mpld3
+streamlit
+BytesIO
+json
